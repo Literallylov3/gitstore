@@ -1,2 +1,5 @@
 Nine is semi-prime
 Nine is the biggest single digit number
+This is 9!
+It is a square number.
+It looks a bit like a 6
